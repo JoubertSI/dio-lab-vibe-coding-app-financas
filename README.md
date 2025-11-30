@@ -1,6 +1,8 @@
-# 💸 App de Controle de Finaças Pessoais do Joubert Pinheiro com Vibe Coding
+# 💸 App de Controle de Finanças Pessoais do Joubert Pinheiro com Vibe Coding
 
-PRD refinado no Copilot Web:
+---
+
+## 📄 PRD refinado no Copilot Web
 
 ```markdown
 PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
@@ -45,108 +47,55 @@ A proposta é oferecer uma experiência simples, acessível e personalizada, com
   - Coletar feedback sobre simplicidade, acessibilidade e utilidade.
 ```
 
-Interações com o Lovable:
+🎥 Interações com o Lovable
+Crie um app de finanças pessoais com base no seguinte PRD (Product Requirements Document): {PRD} Informei que iria cadastrar minhas despesas fixas e em seguida eu iria passar a lista para ele montar. Gerei minhas despesas fixas porém não registrou no app, poderia fazer essa inclusão? Pois o App não está com a opção de adicionar as despesas e as rendas.
 
->Crie um app de finanças pessoais com base no seguinte PRD (Prdouct Requirements Documents):{PRD}
-
->Informei que iria cadastrar minnhas desepesas fixas e em seguida eu iria passar a lista para ele montar.
-
->Gerei minhas despesas fixas porém não registrou no app, poderia fazer essa inclusão? Pois o App não está com a opção de adicionar as despesas e as rendas.
-
-Resultado Final no Lovable: https://say-my-spend.lovable.app/
+Resultado Final no Lovable: 👉 https://say-my-spend.lovable.app/
 
 <img width="1440" height="1146" alt="image" src="https://github.com/user-attachments/assets/0ae1c5fb-b358-4a7b-98be-4a5ec280f899" />
 
-
-# 📱 FinanceApp – Organização de Finanças Pessoais via Chat
-
+📱 FinanceApp – Organização de Finanças Pessoais via Chat
 O FinanceApp é um aplicativo que permite aos usuários organizarem suas finanças pessoais de forma simples e intuitiva, utilizando linguagem natural. Ideal para quem busca praticidade sem depender de planilhas ou interfaces complexas.
 
----
-
-## 🎯 Objetivo
-
+🎯 Objetivo
 Facilitar o controle financeiro por meio de uma experiência conversacional, acessível e personalizada, com foco em iniciantes e usuários que desistiram de apps tradicionais.
 
----
+👥 Público-Alvo
+Jovens adultos
 
-## 👥 Público-Alvo
+Estudantes
 
-- Jovens adultos
-- Estudantes
-- Profissionais em início de carreira
-- Pessoas que desejam simplicidade no controle financeiro
+Profissionais em início de carreira
 
----
+Pessoas que desejam simplicidade no controle financeiro
 
-## 🔑 Funcionalidades Principais
+🔑 Funcionalidades Principais
+💬 Interação via Chat: registro de gastos com frases naturais e agente financeiro com dicas personalizadas.
 
-### 💬 Interação via Chat
-- Registro de gastos com frases naturais (ex.: “gastei R$50 no mercado”)
-- Agente Financeiro com dicas personalizadas e insights sobre consumo
+🧠 Automação Inteligente: categorização automática das transações.
 
-### 🧠 Automação Inteligente
-- Classificação automática de transações por categoria (moradia, transporte, educação etc.)
-- Interpretação de linguagem natural para entender os registros
+📊 Relatórios Visuais: resumo financeiro, gráficos simples e lista de transações recentes.
 
-### 📊 Relatórios Visuais
-- Resumo financeiro com:
-  - Total gasto
-  - Média diária
-  - Número de transações
-- Gráficos simples e lista de transações recentes
-- Visualização por categoria com percentuais e valores
+🎯 Metas Financeiras: definição e acompanhamento de metas mensais.
 
-### 🎯 Metas Financeiras
-- Definição e acompanhamento de metas (ex.: economizar R$200/mês)
-- Notificações e progresso das metas
+🧩 Design Universal: acessibilidade, contraste adequado e suporte a leitores de tela.
 
-### 🧩 Design Universal
-- Interface acessível para diferentes perfis de usuários
-- Navegação intuitiva, contraste adequado e suporte a leitores de tela
+🧪 MVP – Entregável da IA
+Telas principais: Chat, Metas e Relatórios.
 
----
+Recursos técnicos: NLP, categorização automática, sistema de metas, relatórios visuais e acessibilidade.
 
-## 🧪 MVP – Entregável da IA
+Validação inicial: testes com usuários diversos, métricas de engajamento e feedback sobre simplicidade.
 
-- **Telas principais**:
-  - Chat (registro e interação)
-  - Metas (criação e acompanhamento)
-  - Relatórios (visualizações simples)
+🤔 Reflexão
+✅ O que funcionou bem?
+O refinamento do PRD feito no Copilot ajudou bastante, pois os créditos do Lovable acabaram em poucas interações (3 no total).
 
-- **Recursos técnicos**:
-  - Processamento de linguagem natural
-  - Motor de categorização automática
-  - Sistema de metas e notificações
-  - Módulo de relatórios visuais
-  - Princípios de Design Universal
+⚠️ O que não funcionou como o esperado?
+Esperava uma interação maior no Lovable, porém ele não é gratuito. Ainda assim, o que foi pedido ele supriu bem.
 
-- **Validação inicial**:
-  - Testes com usuários diversos
-  - Métricas de engajamento via chat
-  - Avaliação da clareza das dicas
-  - Feedback sobre simplicidade e acessibilidade
+📚 O que aprendeu sobre conversar com IAs?
+Aprendi que quanto mais contextualizada e clara for a conversa, melhor é o retorno da IA.
 
----
-
-> Desenvolvido para transformar o controle financeiro em uma conversa simples e eficiente.
-
-
-
-## Reflexão
-
-  ### O que funcionou bem?
-  O refinamento do PRD préviamente feito no copilot ajudou bastante, pois os créditos do Lovable acabaram em poucas interações, para ser mais exato em 3.
-  
-  ### O que não funcionou como o esperado?
-  Esperava uma interação maior no Lovable, porém ele não é gratuito e o que foi pedido ele supriu bem.
-  
-  ### O que aprendeu sobre conversar com IAs?
-  Aprendi que quanto mais contextualizado a conversa for, mais claro também, melhor é o retorno da IA.
-  
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+💬 Conclusão
+Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do raciocínio criativo. Cada interação é um experimento: quanto mais clara for sua intenção, mais surpreendente será o resultado.
